@@ -1,5 +1,5 @@
 # Allegati tesi Filtro di Kalman
-Nella presente cartella si trovano tutti i file relativi a quanto discusso nella tesi. Tutti gli script possono essere eseguiti così come si trovano. Di seguito alcune indicazioni specifiche per alcuni di essi.
+Nella cartella Codici si trovano tutti i file relativi a quanto discusso nella tesi. Tutti gli script possono essere eseguiti così come si trovano. Di seguito alcune indicazioni specifiche per alcuni di essi.
 
 ## Esempio temperatura
 Nella cartella *Esempio temperatura* si trova il file Temperatura.mlx relativo all'esempio 2.1.1. È sufficiente eseguire lo script per visualizzarne i risultati.
